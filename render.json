@@ -27,12 +27,12 @@
       { "match": "#6D3C1B", "replace": "#1B0707" }
     ]
   },
-  "Banana-Catppuccin-Mocha": {
+  "Banana-Catppuccin-Latte": {
     "dir": "svg",
     "out": "bitmaps/Banana-Catppuccin-Mocha",
     "colors": [
-      { "match": "#FCD900", "replace": "#F9E2AF" },
-      { "match": "#6D3C1B", "replace": "#45475A" }
+      { "match": "#FCD900", "replace": "#df8e1d" },
+      { "match": "#6D3C1B", "replace": "#bcc0cc" }
     ]
   },
   "Banana-Hacker": {
