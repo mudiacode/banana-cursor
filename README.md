@@ -136,7 +136,7 @@ Run the `uninstall.bat` script packed with the `.zip` archive
 ### Quick start
 
 1. Install [build prerequisites](#prerequisites) on your system
-2. `git clone https://github.com/ful1e5/banana-cursor`
+2. `git clone https://github.com/mudiacode/banana-cursor`
 3. `cd banana-cursor`
 4. `yarn install`
 5. `yarn generate`
